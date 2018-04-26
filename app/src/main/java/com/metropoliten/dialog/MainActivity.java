@@ -71,7 +71,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-/////////////////////////////////////////////////////////
+
 
     @Override
     protected Dialog onCreateDialog(final int id) {
